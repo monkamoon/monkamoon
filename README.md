@@ -12,3 +12,4 @@ Curso Engenharia da Computação pela UNIVESP, decidi seguir essa área justamen
     <img align='center' alt='html15' src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'/>
    <img align='center' alt='html15' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'/>
     <img align='center' alt='html15' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
+    <img align='right' alt='gif' src='https://discord.com/channels/@me/693963581590601778/1226682521232740382'/>
