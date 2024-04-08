@@ -13,3 +13,10 @@ ________________________________________________________________________________
    <img align='center' alt='html15' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'/>
     <img align='center' alt='html15' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
     <img align='right' alt='gif' height='220' width='220' src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBwbmxzaHlrcmp3OWNxend6ZW9veWl2d2VlaHZzNzY3a3Y1Nmc5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cmNOuHOgTq3MODgSeP/giphy.gif'/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monkamoon/monkamoon/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monkamoon/monkamoon/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/monkamoon/monkamoon/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
