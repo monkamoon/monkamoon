@@ -10,7 +10,7 @@ Curso Engenharia da Computação pela UNIVESP, decidi seguir essa área justamen
 
 ![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa&show_icons=true&theme=midnight-purple)
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - 
-<h3 align="left">Stacks</h3>
+<h3 align="left">Linguagens</h3>
 <div style='display': inline_block><br/>
     <img align='center' alt='html15' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
    <img align='center' alt='html15' src='https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white'/>
