@@ -6,6 +6,9 @@ Curso Engenharia da Computação pela UNIVESP, decidi seguir essa área justamen
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissacparton/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monkamoon)
 
+<img alt="snake" src="https://raw.githubusercontent.com/monkamoon/monkamoon/output/github-contribution-grid-snake.svg" />
+<br/><br/><br/>
+  
 <h3>GitHub Stats</h3>
 
 ![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa&show_icons=true&theme=midnight-purple)
