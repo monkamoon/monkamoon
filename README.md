@@ -2,14 +2,11 @@
 
 Curso Engenharia da Computação pela UNIVESP, decidi seguir essa área justamente por sempre gostar de tecnologia. Atualmente meu conhecimento é em linguagem Python, HTML, CSS e JavaScript, e também tenho conhecimento no sistema SAP, Power BI e banco de dados SQL. Futuramente pretendo seguir a área de Full Stack. Sou uma pessoa muito curiosa, o que me garante sempre um novo aprendizado.
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">My Linkedin!</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissacparton/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monkamoon)
 
-<img alt="snake" src="https://raw.githubusercontent.com/monkamoon/monkamoon/output/github-contribution-grid-snake.svg" />
-<br/><br/><br/>
-  
-<h3>GitHub Stats</h3>
+<h3>Stats</h3>
 
 ![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa&show_icons=true&theme=midnight-purple)
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - 
