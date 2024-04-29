@@ -19,8 +19,4 @@ Curso Engenharia da Computação pela UNIVESP, decidi seguir essa área justamen
     <img align='center' alt='html15' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
     <img align='right' alt='gif' height='240' width='240' src='https://media.discordapp.net/attachments/693963581590601778/1226682520851054722/giphy.gif?ex=6625a81f&is=6613331f&hm=32cc86b9a0497bcbf27f95faa1195c635d71be903405743ce3977dd1fb4805eb&=&width=467&height=467'/>
        
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monkamoon/monkamoon/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monkamoon/monkamoon/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+
