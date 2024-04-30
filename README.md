@@ -1,22 +1,30 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=9822F7&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+a+Melissa!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=990&color=951AF7&random=false&width=435&lines=%E2%9C%A7+Ol%C3%A1!+Sou+a+Melissa!+%E2%9C%A7)](https://git.io/typing-svg)
 
 Curso Engenharia da Computação pela UNIVESP, decidi seguir essa área justamente por sempre gostar de tecnologia. Atualmente meu conhecimento é em linguagem Python, HTML, CSS e JavaScript, e também tenho conhecimento no sistema SAP, Power BI e banco de dados SQL. Futuramente pretendo seguir a área de Full Stack. Sou uma pessoa muito curiosa, o que me garante sempre um novo aprendizado.
 
-<h3 align="left">My Linkedin!</h3>
+#
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissacparton/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monkamoon)
 
-<h3>Stats</h3>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Woman Raising Hand Light Skin Tone" width="80" height="80" img align='left'/><h3>Conexões!</h3>
 
-![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa&show_icons=true&theme=midnight-purple)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7869e9&color:FFF)](https://www.linkedin.com/in/melissacparton/) 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=7869e9&color:FFF)](mailto:meelcalixto1@gmail.com)
+![Discord](https://img.shields.io/badge/Monkamoon-black?style=for-the-badge&logo=discord&logoColor7869e9)
+
+#
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="80" height="80" img align='left'/> <h3>Stats</h3>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=monkamoon&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=7869e9&text_color=FFF&border_radius=3&border_color=7869e9&icon_color=7869e9&theme=jolly" alt="GitHub stats">
+
+# 
+
 <h3 align="left">Linguagens</h3>
 <div style='display': inline_block><br/>
-    <img align='center' alt='html15' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
-   <img align='center' alt='html15' src='https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white'/>
-    <img align='center' alt='html15' src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'/>
-   <img align='center' alt='html15' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'/>
-    <img align='center' alt='html15' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
+    <img align='center' alt='html15' src='https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=7869e9'/>
+   <img align='center' alt='html15' src='https://img.shields.io/badge/SAP-black?style=for-the-badge&logo=sap&logoColor=7869e9'/>
+    <img align='center' alt='html15' src='https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=7869e9'/>
+   <img align='center' alt='html15' src='https://img.shields.io/badge/CSS-black?&style=for-the-badge&logo=css3&logoColor=7869e9'/>
+    <img align='center' alt='html15' src='https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=7869e9'/>
     <img align='right' alt='gif' height='240' width='240' src='https://media.discordapp.net/attachments/693963581590601778/1226682520851054722/giphy.gif?ex=6625a81f&is=6613331f&hm=32cc86b9a0497bcbf27f95faa1195c635d71be903405743ce3977dd1fb4805eb&=&width=467&height=467'/>
        
 
