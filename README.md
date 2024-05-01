@@ -18,7 +18,7 @@ Curso Engenharia da Computação pela UNIVESP, decidi seguir essa área justamen
 
 # 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paperclip.png" alt="Paperclip" width="80" height="80" img align='left'/> <h3>Linguagens</h3>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paperclip.png" alt="Paperclip" width="80" height="80" img align='left'/> <h3>Stacks</h3>
 <div style='display': inline_block><br/>
     <img align='center' alt='html15' src='https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=7869e9'/>
    <img align='center' alt='html15' src='https://img.shields.io/badge/SAP-black?style=for-the-badge&logo=sap&logoColor=7869e9'/>
