@@ -2,6 +2,7 @@
 
 Me chamo Melissa, tenho 21 anos e atualmente curso Engenharia da Computação pela UNIVESP, decidi seguir essa área justamente por sempre gostar de tecnologia! Atualmente meu conhecimento é em linguagem Python, HTML, CSS e JavaScript, e também tenho conhecimento no sistema SAP, Power BI e banco de dados SQL. Me dedico atualmente a área de Cibersegurança. Sou uma pessoa muito curiosa, o que me garante sempre um novo aprendizado.
 
+
 #
 
 
