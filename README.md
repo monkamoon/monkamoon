@@ -30,5 +30,5 @@ Me chamo Melissa, tenho 21 anos e atualmente curso Engenharia da Computação pe
 #
 
 <div align='center'>
-  <img alt='gif' height='300' width='600' src='https://media.discordapp.net/attachments/693963581590601778/1235013564285063178/githubgif.gif?ex=6632d383&is=66318203&hm=4e28829c9fb22e402d8ec9bdd315a9eb135581e75e8d19233a8763077804e95e&=&width=831&height=467'/>
+  <img alt='gif' height='100' width='500' src='https://files.catbox.moe/3cy01r.gif'/>
 <div>
