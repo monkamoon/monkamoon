@@ -18,7 +18,9 @@ Me chamo Melissa, tenho 21 anos e atualmente curso Engenharia da Computação pe
 
 #
 
-<img alt='gif' height='90' width='90' img align='left' src='https://files.catbox.moe/pwy8je.gif'/><h3>Stats</h3>
+<img alt='gif' height='90' width='90' align='left' src='https://files.catbox.moe/pwy8je.gif'/>
+<h3>Stats</h3>
+
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=monkamoon&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=7869e9&text_color=FFF&border_radius=3&border_color=7869e9&icon_color=7869e9&theme=jolly" alt="GitHub stats">
 
 # 
