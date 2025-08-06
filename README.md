@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=990&color=951AF7&random=false&width=435&lines=%E2%9C%A7+Ol%C3%A1!+Sou+a+Melissa!+%E2%9C%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=13921A&width=435&separator=%3C&lines=Ol%C3%A1%2C+sou+a+Melissa!+;))](https://git.io/typing-svg)
 
 Me chamo Melissa, tenho 21 anos e atualmente curso Engenharia da Computação pela UNIVESP, decidi seguir essa área justamente por sempre gostar de tecnologia! Atualmente meu conhecimento é em linguagem Python, HTML, CSS e JavaScript, e também tenho conhecimento no sistema SAP, Power BI e banco de dados SQL. Me dedico atualmente a área de Cibersegurança. Sou uma pessoa muito curiosa, o que me garante sempre um novo aprendizado.
 
