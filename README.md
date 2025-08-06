@@ -12,27 +12,32 @@ Me chamo Melissa, tenho 21 anos e atualmente curso Engenharia da Computação pe
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="85" height="85" img align='left'/><h3>Conexões!</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=C55C7DFF&color:#C55C7DFF)](https://www.linkedin.com/in/melissapartonb/) 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=C55C7DFF&color:#C55C7DFF)](mailto:meelcalixto1@gmail.com)
-![Discord](https://img.shields.io/badge/Monkamoon-black?style=for-the-badge&logo=discord&logoColorC55C7DFF)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=pink&color:black)](https://www.linkedin.com/in/melissapartonb/) 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=pink&color:#C55C7DFF)](mailto:meelcalixto1@gmail.com)
+![Discord](https://img.shields.io/badge/Monkamoon-black?style=for-the-badge&logo=discord&logoColor=pink)
 
 #
 
 <img alt='gif' height='100' width='100' align='left' src='https://64.media.tumblr.com/18837d656d418de6a72731cde6c60ccd/3e8235eb96056332-87/s250x400/05ede8a705d568219a54c25842c968d6770086cf.gifv'/>
 <h3>Stats</h3>
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=monkamoon&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=7869e9&text_color=FFF&border_radius=3&border_color=7869e9&icon_color=7869e9&theme=jolly" alt="GitHub stats">
+(ops)
 
 # 
 
-
 <img src="https://64.media.tumblr.com/e0631c62c8159abf82d65b4bc6e61e91/8bb4dbc5f762e89d-d4/s250x400/7fa8b9b456f52f5af9350683f462da82e41f2174.gifv" alt="Paperclip" width="90" height="90" img align='left'/><h3>Stacks</h3>
 <div style='display': inline_block><br/>
-    <img align='center' alt='html15' src='https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=7869e9'/>
-   <img align='center' alt='html15' src='https://img.shields.io/badge/SAP-black?style=for-the-badge&logo=sap&logoColor=7869e9'/>
-    <img align='center' alt='html15' src='https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=7869e9'/>
-   <img align='center' alt='html15' src='https://img.shields.io/badge/CSS-black?&style=for-the-badge&logo=css3&logoColor=7869e9'/>
-    <img align='center' alt='html15' src='https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=7869e9'/>
+    <img align='center' alt='html15' src='https://img.shields.io/badge/Python-pink?style=for-the-badge&logo=python&logoColor=black'/>
+   <img align='center' alt='html15' src='https://img.shields.io/badge/SAP-pink?style=for-the-badge&logo=sap&logoColor=black'/>
+    <img align='center' alt='html15' src='https://img.shields.io/badge/HTML-pink?style=for-the-badge&logo=html5&logoColor=black'/>
+   <img align='center' alt='html15' src='https://img.shields.io/badge/CSS-pink?&style=for-the-badge&logo=css3&logoColor=black'/>
+    <img align='center' alt='html15' src='https://img.shields.io/badge/JavaScript-pink?style=for-the-badge&logo=javascript&logoColor=black'/>
+    <img align='center' alt='html15' src='https://img.shields.io/badge/Powershell-pink?style=for-the-badge&logo=shell&logoColor=black'/>
+    <img align='center' alt='html15' src='https://img.shields.io/badge/Microsoft-pink?style=for-the-badge&logo=microsoft&logoColor=black'/>
+    <img align='center' alt='html15' src='https://img.shields.io/badge/Citrix-pink?style=for-the-badge&logo=citrix&logoColor=black'/>
+  <img align='center' alt='html15' src='https://img.shields.io/badge/Linux-pink?style=for-the-badge&logo=linux&logoColor=black'/>
+  <img align='center' alt='html15' src='https://img.shields.io/badge/Pandora-pink?style=for-the-badge&logo=pandora&logoColor=black'/>
+  
   
 #
 
