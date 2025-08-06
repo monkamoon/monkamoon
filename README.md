@@ -21,7 +21,8 @@ Me chamo Melissa, tenho 21 anos e atualmente curso Engenharia da Computação pe
 <img alt='gif' height='100' width='100' align='left' src='https://64.media.tumblr.com/18837d656d418de6a72731cde6c60ccd/3e8235eb96056332-87/s250x400/05ede8a705d568219a54c25842c968d6770086cf.gifv'/>
 <h3>Stats</h3>
 
-(ops)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monkamoon&show_icons=true&theme=rose)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monkamoon&layout=donut&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 
 # 
 
