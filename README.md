@@ -22,6 +22,7 @@ Me chamo Melissa, tenho 21 anos e atualmente curso Engenharia da Computação pe
 <h3>Stats</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monkamoon&layout=donut&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+<img alt='gif' height='200' width='200' align='right' src='https://64.media.tumblr.com/81b414755055a5d441a62d9a3aadb69c/24aed0b471f653ac-8a/s400x600/50a0c4293416dd2b441652cfe618e82fdb68644d.gifv'/>
 
 # 
 
