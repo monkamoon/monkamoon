@@ -40,8 +40,8 @@ Me chamo Melissa, tenho 21 anos e atualmente curso Engenharia da Computação pe
   <img align='center' alt='html15' src='https://img.shields.io/badge/Citrix-pink?style=for-the-badge&logo=citrix&logoColor=black'/>
   <img align='center' alt='html15' src='https://img.shields.io/badge/Linux-pink?style=for-the-badge&logo=linux&logoColor=black'/>
   <img align='center' alt='html15' src='https://img.shields.io/badge/Pandora-pink?style=for-the-badge&logo=pandora&logoColor=black'/>
-<img align='center' alt='html15' src='https://img.shields.io/badge/Wireshark-pink?style=for-the-badge&logo=wireshark&logoColor=black'/>
-  
+  <img align='center' alt='html15' src='https://img.shields.io/badge/Wireshark-pink?style=for-the-badge&logo=wireshark&logoColor=black'/>
+  <img align='center' alt='html15' src='https://img.shields.io/badge/windows-pink?style=for-the-badge&logo=windows&logoColor=black'/>
   
 #
 
