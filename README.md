@@ -12,7 +12,7 @@ Me chamo Melissa, tenho 21 anos e atualmente curso Engenharia da Computação pe
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="85" height="85" img align='left'/><h3>Conexões!</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=pink&color:black)](https://www.linkedin.com/in/melissapartonb/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=pink&color:black)](https://www.linkedin.com/in/melissapartonb/) 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=pink&color:#C55C7DFF)](mailto:meelcalixto1@gmail.com)
 ![Discord](https://img.shields.io/badge/Monkamoon-black?style=for-the-badge&logo=discord&logoColor=pink)
 
