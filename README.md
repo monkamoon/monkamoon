@@ -49,6 +49,7 @@ Me chamo Melissa, tenho 21 anos e atualmente curso Engenharia da Computação pe
 
 <div style='display': inline_block><br/>
   <img align='center' alt='html15' src='https://img.shields.io/badge/Owasp10-pink?style=for-the-badge&logo=owasp10&logoColor=black'/>
+  <img align='center' alt='html15' src='https://img.shields.io/badge/TryHackMe-pink?style=for-the-badge&logo=TryHackMe&logoColor=black'/>
   
 #
 
