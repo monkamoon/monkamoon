@@ -26,7 +26,7 @@ Me chamo Melissa, tenho 21 anos e atualmente curso Engenharia da Computação pe
 
 # 
 
-<img src="https://64.media.tumblr.com/e0631c62c8159abf82d65b4bc6e61e91/8bb4dbc5f762e89d-d4/s250x400/7fa8b9b456f52f5af9350683f462da82e41f2174.gifv" alt="Paperclip" width="90" height="90" img align='left'/><h3>Skills</h3>
+<img src="https://64.media.tumblr.com/e0631c62c8159abf82d65b4bc6e61e91/8bb4dbc5f762e89d-d4/s250x400/7fa8b9b456f52f5af9350683f462da82e41f2174.gifv" alt="Paperclip" width="90" height="90" img align='left'/><h3>Skills & Tools</h3>
 <div style='display': inline_block><br/>
     <img align='center' alt='html15' src='https://img.shields.io/badge/Python-pink?style=for-the-badge&logo=python&logoColor=black'/>
    <img align='center' alt='html15' src='https://img.shields.io/badge/SAP-pink?style=for-the-badge&logo=sap&logoColor=black'/>
