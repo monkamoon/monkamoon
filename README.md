@@ -4,7 +4,7 @@
   </a>
 </div>
 
-Me chamo Melissa, tenho 21 anos e atualmente curso Engenharia da Computação pela UNIVESP, decidi seguir essa área justamente por sempre gostar de tecnologia! Atualmente meu conhecimento é em linguagem Python, Powershell, HTML, CSS e JavaScript, também tenho conhecimento em ferramentas como Microsoft Office/XDR/EntraID/AD/Jira, Nutanix, Citrix Cloud, Putty MobaXTerm, SSH e banco de dados SQL. Além de sistemas operacionais como Windows, Linux e MAC. Me mantenho atualizada sempre tendo como base OWASP 10, Nist, CVES, artigos e notícias sobre a área Tech. Atualmente me dedico a área de Cibersegurança Blue Team, onde descobri minha verdadeira paixão. Sou uma pessoa muito curiosa e cara-de-pau, não tenho medo de perguntar e aprender!! Essa sou eu! :D
+Me chamo Melissa, tenho 21 anos e atualmente curso Engenharia da Computação pela UNIVESP, decidi seguir essa área justamente por sempre gostar de tecnologia! Atualmente meu conhecimento é em linguagem Python, Powershell, HTML, CSS e JavaScript, também tenho conhecimento em ferramentas como Microsoft Office/XDR/EntraID/AD/Jira, Nutanix, Citrix Cloud, Putty MobaXTerm, SSH e banco de dados SQL. Além de sistemas operacionais como Windows, Linux e MAC. Me mantenho atualizada sempre tendo como base OWASP 10, NIST, CVES, artigos e notícias sobre a área tech. Atualmente me dedico a área de Cibersegurança Blue Team, onde descobri minha verdadeira paixão. Sou uma pessoa muito curiosa e cara-de-pau, não tenho medo de perguntar e aprender!! Essa sou eu! :D
 
 #
 
